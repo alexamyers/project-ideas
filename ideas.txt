@@ -1,0 +1,6 @@
+Ideas for Capstone Project:
+1. Vinyl Store - online store for vinyl records
+2. Dog Rescue - application that shows all adoptable dogs in Charlotte, NC
+3. Diet App - application with ability to update macros and meet goals set for diet
+4. Best Eats - application with rolling 4 week avg of restaurant reviews - top 5 or 10
+5. New Music Discovery - application shows pools of related artist and able to generate via genre, and randomly generates pool of related artists, can click to follow the rabbit hole of related artists
